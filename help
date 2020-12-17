@@ -1,0 +1,19 @@
+Navigate Chap to the end of the maze.
+Collect treasures to open the door to the exit.
+Collect coloured keys to open coloured doors.
+Avoid bugs! Making contact with a bug will cause you to lose the game.
+
+Controls:
+In Game:
+ARROW KEYS - Move Chap
+SPACEBAR - Pause game
+ESCAPE - Close pause menu
+CTRL+S - Save & Exit (your save game will load the next time you launch the game)
+CTRL+X - Exit without saving
+CTRL+1 - Start game from level 1
+
+In Replay:
+UP ARROW - Speed up replay
+DOWN ARROW - Slow down replay
+SPACEBAR - Toggle auto replay (auto replay is running by default)
+RIGHT ARROW - Step through replay (if auto replay isn't running)

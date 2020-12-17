@@ -1,0 +1,283 @@
+[ {
+  "actor" : "player",
+  "time" : 590,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : 586,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : 583,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : 581,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : 579,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : 577,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : 575,
+  "direction" : "u",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : 573,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : 571,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : 570,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : 568,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : 565,
+  "direction" : "u",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : 564,
+  "direction" : "u",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : 560,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "u",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "l",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "l",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "u",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "u",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "u",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "u",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "l",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "d",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "r",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "u",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "u",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "u",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "u",
+  "level" : 1,
+  "last" : 0
+}, {
+  "actor" : "player",
+  "time" : -1,
+  "direction" : "u",
+  "level" : 1,
+  "last" : 0
+} ]

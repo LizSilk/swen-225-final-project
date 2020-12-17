@@ -1,0 +1,795 @@
+{
+  "tiles" : [ [ {
+    "row" : 0,
+    "col" : 0,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 0,
+    "col" : 1,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 0,
+    "col" : 2,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 0,
+    "col" : 3,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 0,
+    "col" : 4,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 0,
+    "col" : 5,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 0,
+    "col" : 6,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 0,
+    "col" : 7,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  } ], [ {
+    "row" : 1,
+    "col" : 0,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 1,
+    "col" : 1,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : {
+      "type" : "player",
+      "treasureCount" : 0,
+      "inventory" : [ {
+        "type" : "key",
+        "colour" : "YELLOW"
+      } ],
+      "direction" : "u"
+    },
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 1,
+    "col" : 2,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 1,
+    "col" : 3,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 1,
+    "col" : 4,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : {
+      "type" : "Enemy",
+      "ai" : "LEFT",
+      "direction" : "d"
+    },
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 1,
+    "col" : 5,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 1,
+    "col" : 6,
+    "floor" : {
+      "type" : "EXIT",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 1,
+    "col" : 7,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  } ], [ {
+    "row" : 2,
+    "col" : 0,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 2,
+    "col" : 1,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 2,
+    "col" : 2,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 2,
+    "col" : 3,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 2,
+    "col" : 4,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 2,
+    "col" : 5,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 2,
+    "col" : 6,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 2,
+    "col" : 7,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  } ], [ {
+    "row" : 3,
+    "col" : 0,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 3,
+    "col" : 1,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 3,
+    "col" : 2,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 3,
+    "col" : 3,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 3,
+    "col" : 4,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 3,
+    "col" : 5,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 3,
+    "col" : 6,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : {
+      "doorColour" : null
+    },
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 3,
+    "col" : 7,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  } ], [ {
+    "row" : 4,
+    "col" : 0,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 4,
+    "col" : 1,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 4,
+    "col" : 2,
+    "floor" : {
+      "type" : "INFO",
+      "information" : "Testing info"
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : true,
+    "notOccupied" : false
+  }, {
+    "row" : 4,
+    "col" : 3,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : {
+      "type" : "treasure"
+    },
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 4,
+    "col" : 4,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 4,
+    "col" : 5,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 4,
+    "col" : 6,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 4,
+    "col" : 7,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  } ], [ {
+    "row" : 5,
+    "col" : 0,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 5,
+    "col" : 1,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 5,
+    "col" : 2,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 5,
+    "col" : 3,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 5,
+    "col" : 4,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 5,
+    "col" : 5,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 5,
+    "col" : 6,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : {
+      "type" : "treasure"
+    },
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 5,
+    "col" : 7,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  } ], [ {
+    "row" : 6,
+    "col" : 0,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 6,
+    "col" : 1,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 6,
+    "col" : 2,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 6,
+    "col" : 3,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : {
+      "type" : "key",
+      "colour" : "BLUE"
+    },
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 6,
+    "col" : 4,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 6,
+    "col" : 5,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : {
+      "doorColour" : "BLUE"
+    },
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 6,
+    "col" : 6,
+    "floor" : {
+      "type" : "FREE",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : true
+  }, {
+    "row" : 6,
+    "col" : 7,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  } ], [ {
+    "row" : 7,
+    "col" : 0,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 7,
+    "col" : 1,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 7,
+    "col" : 2,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 7,
+    "col" : 3,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 7,
+    "col" : 4,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 7,
+    "col" : 5,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 7,
+    "col" : 6,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  }, {
+    "row" : 7,
+    "col" : 7,
+    "floor" : {
+      "type" : "WALL",
+      "information" : null
+    },
+    "door" : null,
+    "actor" : null,
+    "collectible" : null,
+    "info" : false,
+    "notOccupied" : false
+  } ] ],
+  "time" : 0
+}
